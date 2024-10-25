@@ -32,8 +32,6 @@
 <img src="C:\Users\Personal\OneDrive\Desktop\sex\Quienes somos select.PNG" width=500 height="85">
 </a>
 </center>
-
-
 </body>
 </html>
 
